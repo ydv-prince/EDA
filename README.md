@@ -90,5 +90,5 @@ This repository is part of my journey toward becoming a Data Engineer / ML Engin
 
 ## Connect With Me
 
-- LinkedIn: linkedin.com/in/princekumar-dataengineer
+- LinkedIn: linkedin.com/in/princetech04
 - GitHub: github.com/ydv-prince
